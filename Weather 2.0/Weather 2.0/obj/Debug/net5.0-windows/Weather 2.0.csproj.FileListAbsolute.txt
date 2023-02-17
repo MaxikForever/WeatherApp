@@ -1,0 +1,21 @@
+E:\C#Files\Weather 2.0\Weather 2.0\bin\Debug\net5.0-windows\Weather 2.0.exe
+E:\C#Files\Weather 2.0\Weather 2.0\bin\Debug\net5.0-windows\Weather 2.0.deps.json
+E:\C#Files\Weather 2.0\Weather 2.0\bin\Debug\net5.0-windows\Weather 2.0.runtimeconfig.json
+E:\C#Files\Weather 2.0\Weather 2.0\bin\Debug\net5.0-windows\Weather 2.0.runtimeconfig.dev.json
+E:\C#Files\Weather 2.0\Weather 2.0\bin\Debug\net5.0-windows\Weather 2.0.dll
+E:\C#Files\Weather 2.0\Weather 2.0\bin\Debug\net5.0-windows\Weather 2.0.pdb
+E:\C#Files\Weather 2.0\Weather 2.0\obj\Debug\net5.0-windows\Weather 2.0.csproj.AssemblyReference.cache
+E:\C#Files\Weather 2.0\Weather 2.0\obj\Debug\net5.0-windows\Weather_2._0.Weather.resources
+E:\C#Files\Weather 2.0\Weather 2.0\obj\Debug\net5.0-windows\Weather_2._0.Properties.Resources.resources
+E:\C#Files\Weather 2.0\Weather 2.0\obj\Debug\net5.0-windows\Weather 2.0.csproj.GenerateResource.cache
+E:\C#Files\Weather 2.0\Weather 2.0\obj\Debug\net5.0-windows\Weather 2.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Files\Weather 2.0\Weather 2.0\obj\Debug\net5.0-windows\Weather 2.0.AssemblyInfoInputs.cache
+E:\C#Files\Weather 2.0\Weather 2.0\obj\Debug\net5.0-windows\Weather 2.0.AssemblyInfo.cs
+E:\C#Files\Weather 2.0\Weather 2.0\obj\Debug\net5.0-windows\Weather 2.0.csproj.CoreCompileInputs.cache
+E:\C#Files\Weather 2.0\Weather 2.0\obj\Debug\net5.0-windows\Weather 2.0.dll
+E:\C#Files\Weather 2.0\Weather 2.0\obj\Debug\net5.0-windows\refint\Weather 2.0.dll
+E:\C#Files\Weather 2.0\Weather 2.0\obj\Debug\net5.0-windows\Weather 2.0.pdb
+E:\C#Files\Weather 2.0\Weather 2.0\obj\Debug\net5.0-windows\Weather 2.0.genruntimeconfig.cache
+E:\C#Files\Weather 2.0\Weather 2.0\obj\Debug\net5.0-windows\ref\Weather 2.0.dll
+E:\C#Files\Weather 2.0\Weather 2.0\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\C#Files\Weather 2.0\Weather 2.0\obj\Debug\net5.0-windows\Weather 2.0.csproj.CopyComplete
